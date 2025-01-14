@@ -1,5 +1,7 @@
 # Info
 
+You may see a plugin preinstalled already called "Login Security". Keep that this will help combat people's account from gettting stolen in your Eaglerserver due to anyone can just have whatever name.
+
 ## Credits
 Original Project: Lax1Dude
 <br>
